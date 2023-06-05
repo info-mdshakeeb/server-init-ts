@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/Users/shakeeb/Documents/world of devlopment/ph2_mYPractice/basic_backend_setup/log/winston/errors/.f33e625f21ebe15a81eb98c6d2274ca71ea9873b-audit.json",
+    "files": [
+        {
+            "date": 1685971282329,
+            "name": "/Users/shakeeb/Documents/world of devlopment/ph2_mYPractice/basic_backend_setup/log/winston/errors/ps-error-2023-06-05-19.log",
+            "hash": "8d22fbda8efc002213efd4763805de321ca50299aa07f8101e082126e68ee65c"
+        }
+    ],
+    "hashType": "sha256"
+}

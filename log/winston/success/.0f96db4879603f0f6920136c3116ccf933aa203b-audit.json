@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/Users/shakeeb/Documents/world of devlopment/ph2_mYPractice/basic_backend_setup/log/winston/success/.0f96db4879603f0f6920136c3116ccf933aa203b-audit.json",
+    "files": [
+        {
+            "date": 1685971282327,
+            "name": "/Users/shakeeb/Documents/world of devlopment/ph2_mYPractice/basic_backend_setup/log/winston/success/ps-success-2023-06-05-19.log",
+            "hash": "ac2ea4c9dd08bea659cf5b621ab964fe9bd239b829cf518e6d2226d2aaec30be"
+        }
+    ],
+    "hashType": "sha256"
+}
